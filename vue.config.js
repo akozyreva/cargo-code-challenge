@@ -1,3 +1,3 @@
 module.exports = {
-    publicPath: 'cargo-code-challenge'
-   } 
+  publicPath: "cargo-code-challenge"
+};
